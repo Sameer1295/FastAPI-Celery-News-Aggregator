@@ -1,4 +1,4 @@
-# News Aggregator Project
+# News Aggregator Using FastAPI and Celery
 
 Developed a News Aggregator using FastAPI and Celery, which efficiently schedules the fetching of news articles from the NewsAPI service and seamlessly stores them into a MySQL database. The Celery scheduler ensures the system updates every minute, keeping the database current with the latest articles. Get started effortlessly by cloning the repository, configuring your NewsAPI credentials, and running the application.
 
